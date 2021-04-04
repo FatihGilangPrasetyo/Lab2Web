@@ -20,4 +20,12 @@ Menambahkan CSS Eksternal ke Browser adalah dengan menghubungkannya ke file .CSS
   ![image](https://user-images.githubusercontent.com/81542329/113496959-16951980-9529-11eb-86a4-67af85726de3.png) <p>
  <p>
 4. Pada sebuah elemen HTML terdapat ID dan CLASS , apabila masing-masing selctetor tersebut terdapat deklasrasi CSS , maka deklarasi manakah yang akan tampil pada browser? Berikan penjelasannya <p>
-Jawab : 
+Jawab : ketika elemen terdapat ID dan Class dan masing-masing selector terdapat deklarasi : <p>
+   ![image](https://user-images.githubusercontent.com/81542329/113500570-389e9400-9549-11eb-9d01-c6f8e1777535.png) <p>
+  Hasil pada browser adalah : <p>
+    
+    ![image](https://user-images.githubusercontent.com/81542329/113500605-713e6d80-9549-11eb-9182-2fd4fb02eafe.png)
+
+
+
+
