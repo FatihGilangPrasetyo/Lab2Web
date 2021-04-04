@@ -16,15 +16,19 @@ h1 merupakan bagian paling penting pada halaman elemen ini digunakan untuk judul
 <p>
 3. Apabila ada deklarasi CSS secara internal , lalu ditambahkan CSS secara eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan contohnya ! <p>
 Menambahkan CSS Eksternal ke Browser adalah dengan menghubungkannya ke file .CSS eksternal. Dengan cara tersebut, perubahan apapun yang kita buat pada file CSS akan tampil pada browser kita secara keseluruhan. File CSS eksternal biasanya diletakkan setelah bagian <head> pada halaman: <p>
+
 ![image](https://user-images.githubusercontent.com/81542329/113496954-0e3cde80-9529-11eb-8b71-f24caa5563a4.png) <p>
+  
   ![image](https://user-images.githubusercontent.com/81542329/113496959-16951980-9529-11eb-86a4-67af85726de3.png) <p>
  <p>
 4. Pada sebuah elemen HTML terdapat ID dan CLASS , apabila masing-masing selctetor tersebut terdapat deklasrasi CSS , maka deklarasi manakah yang akan tampil pada browser? Berikan penjelasannya <p>
 Jawab : ketika elemen terdapat ID dan Class dan masing-masing selector terdapat deklarasi : <p>
    ![image](https://user-images.githubusercontent.com/81542329/113500570-389e9400-9549-11eb-9d01-c6f8e1777535.png) <p>
+  
   Hasil pada browser adalah : <p>
-    
-    ![image](https://user-images.githubusercontent.com/81542329/113500605-713e6d80-9549-11eb-9182-2fd4fb02eafe.png)
+   
+   ![image](https://user-images.githubusercontent.com/81542329/113500618-89ae8800-9549-11eb-846c-22b1f3adc765.png)
+
 
 
 
